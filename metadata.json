@@ -1,0 +1,6 @@
+{
+  "name": "Supertrend Pro Trader",
+  "description": "A secure automated trading dashboard featuring Supertrend strategy execution, automated SHA-256 checksum auth, and real-time signal monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
